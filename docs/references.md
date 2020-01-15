@@ -1,0 +1,2 @@
+- defineProperty with enumerable set to false: https://stackoverflow.com/questions/10695506/adding-function-to-object-prototype-causes-function-to-show-up-in-all-for-x-in
+- discussion on altering native types: https://stackoverflow.com/questions/14034180/why-is-extending-native-objects-a-bad-practice
